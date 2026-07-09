@@ -7,4 +7,4 @@ this is only for ROBLOX STUDIO!!!
 
 -08/07/2026
 current state:
-creation, currently the movement systems are being made.
+creation, currently the Health,Stamina and some other things systems are being made.
